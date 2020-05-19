@@ -15,4 +15,4 @@ spec:
     - name: prometheus 
       port: 8080
       targetPort: prometheus
-#  type: LoadBalancer
+  type: LoadBalancer
