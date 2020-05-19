@@ -12,7 +12,7 @@ data:
   config.yml: |-
     global:
       resolve_timeout: 5m
-      slack_api_url: "https://hooks.slack.com/services/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"
+      slack_api_url: ""
       victorops_api_url: "<your_victorops_hook>"
 
     templates:
